@@ -41,7 +41,7 @@ function preload(){
 
 function setup() {
   createCanvas(600, 400); //comprimento e largura
-  //trilha.loop();
+  trilha.loop();
 }
 
 function draw() {
